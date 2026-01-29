@@ -19,7 +19,6 @@ namespace EasyCashIdentityProject.PresentationLayer
                 app.UseHsts();
             }
 
-
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
